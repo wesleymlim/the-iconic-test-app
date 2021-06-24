@@ -1,6 +1,6 @@
 # The Iconic Test App
 
-A Cataog app that displays items in a Composable GridView. More details are provided for a selected product
+A Catalog app that displays items in a Composable GridView. More details are provided for a selected product
 
 ## Built With
 
